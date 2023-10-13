@@ -1,0 +1,80 @@
+{
+  "video": [
+    {
+      "id": "2",
+      "caption": "Angular",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png",
+      "embedLink": "http://www.youtube.com/embed/Ata9cSC2WpM"
+    },
+    {
+      "id": "4",
+      "caption": "Javascript",
+      "url": "https://cms.azure.styava.dev/api/assets/styavacommunities/092f9741-4c89-4cd4-aac9-9b3ca76a2bf5/javascript-39395.png",
+      "embedLink": "http://www.youtube.com/embed/xwKbtUP87Dk"
+    },
+    {
+      "id": "5",
+      "caption": "Leo",
+      "url": "https://static.toiimg.com/thumb/msid-101172246,width-1280,resizemode-4/101172246.jpg",
+      "embedLink": "http://www.youtube.com/embed/Po3jStA673E"
+    }
+  ],
+  "categories": [
+    {
+      "CategoryName": "Malayalam Movie",
+      "allVideos": [
+        {
+          "id": "7",
+          "caption": "Lucifer",
+          "url": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/217923/LUCIFER-poster-01-ZEE-copy.jpg",
+          "embedLink": "http://www.youtube.com/embed/IG5K_xOexiw"
+        },
+        {
+          "id": "7",
+          "caption": "Lucifer",
+          "url": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/217923/LUCIFER-poster-01-ZEE-copy.jpg",
+          "embedLink": "http://www.youtube.com/embed/IG5K_xOexiw"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "CategoryName": "Tamil Movie",
+      "allVideos": [
+        {
+          "id": "5",
+          "caption": "Leo",
+          "url": "https://static.toiimg.com/thumb/msid-101172246,width-1280,resizemode-4/101172246.jpg",
+          "embedLink": "http://www.youtube.com/embed/Po3jStA673E"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "CategoryName": "Program Video",
+      "allVideos": [
+        {
+          "id": "4",
+          "caption": "Javascript",
+          "url": "https://cms.azure.styava.dev/api/assets/styavacommunities/092f9741-4c89-4cd4-aac9-9b3ca76a2bf5/javascript-39395.png",
+          "embedLink": "http://www.youtube.com/embed/xwKbtUP87Dk"
+        },
+        {
+          "id": "2",
+          "caption": "Angular",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png",
+          "embedLink": "http://www.youtube.com/embed/Ata9cSC2WpM"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "Javascript",
+      "embedLink": "http://www.youtube.com/embed/xwKbtUP87Dk",
+      "timeStamp": "10/13/2023, 02:14:47 PM",
+      "id": 1
+    }
+  ]
+}
